@@ -7,7 +7,7 @@
       <div>
         <img
           class="lg:h-[400px] lg:w-[400px] sm:h-[200px] sm:w-[200px] sm:ml-[52px] rounded-full my-[80px]"
-          src="https://media.licdn.com/dms/image/v2/C4E03AQEmhZ6_4Uuokw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1654236418971?e=1727913600&v=beta&t=UZaQly5C-rPmfLgMDX_vDYJ2oFYX1A8qL4hvWI9U_YQ"
+          src="/public/shivanshu.jpeg"
           alt=""
         />
       </div>

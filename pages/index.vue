@@ -31,7 +31,7 @@
       <div>
         <img
           class="rounded-full h-[400px] w-[400px] mt-[80px] mr-[200px] sm:ml-[200px] md:ml-[200px] lg:ml-[0]"
-          src="https://media.licdn.com/dms/image/v2/C4E03AQEmhZ6_4Uuokw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1654236418971?e=1727913600&v=beta&t=UZaQly5C-rPmfLgMDX_vDYJ2oFYX1A8qL4hvWI9U_YQ"
+          src="/public/shivanshu.jpeg"
           alt=""
         />
       </div>
